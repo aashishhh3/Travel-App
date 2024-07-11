@@ -44,15 +44,10 @@ To get started with Travelo on your local machine, follow these steps:
 
 We welcome contributions from the open-source community. If you want to contribute by fixing a bug, adding a new feature, or improving the documentation, please feel free to create issues and submit pull requests. Make sure to read our contribution before getting started.
 
-## License
-
-This project is licensed under the MIT License.
 
 ![1](public/images/1.png)
 
-## Contact
 
-If you have any questions, suggestions, or simply want to say hello, feel free to contact us at suvrodeepdebnath.official.com.
 
 ---
 
